@@ -1,5 +1,4 @@
 # data_analytics
-A collection of projects related to data analytics
 
 ## About 
 A repo with a collection of projects related to data analytics. Projects are small, not big enough to warrant repos of their own. 
